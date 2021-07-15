@@ -1,9 +1,7 @@
 # 排序過程視覺化
-![bubble_sort1](https://user-images.githubusercontent.com/66252302/125822722-48054629-0380-4bc7-9862-5426dbbd20be.gif)
-![insertion_sort1](https://user-images.githubusercontent.com/66252302/125822706-33a156bb-42b1-4d07-97a0-80088983b95c.gif)
 
+![knn(1)](https://user-images.githubusercontent.com/66252302/125831559-c22cb6be-014c-4eb7-93ed-a30d0ba95070.png)
+![dbscan (1)](https://user-images.githubusercontent.com/66252302/125831569-9a41729c-d710-407f-b5e4-5152a04f9141.png)
+![decision tree (1)](https://user-images.githubusercontent.com/66252302/125831578-04f8cfc3-a037-4680-b483-7e0c064dba6d.JPG)
+![k-means](https://user-images.githubusercontent.com/66252302/125831583-c92dbcb2-9eb0-49aa-ba15-1c98b4aba82e.JPG)
 
-![knn](https://user-images.githubusercontent.com/66252302/125830052-e2df93a5-259c-4b6d-88e9-97d1598e71a4.JPG)
-![dbscan](https://user-images.githubusercontent.com/66252302/125830057-cd6ac6ca-a478-4691-b1e8-953d565044c9.JPG)
-![decision tree](https://user-images.githubusercontent.com/66252302/125830059-071636f7-06b1-451e-bf58-02373d66e246.JPG)
-![k-means](https://user-images.githubusercontent.com/66252302/125830063-284614ee-3b0c-4ab6-b3e0-385118acc23a.JPG)
