@@ -16,10 +16,14 @@
 
 **K-means Clustering**
 
+[Implementation Code](/K-means)
+
 ![kmeans2](https://user-images.githubusercontent.com/66252302/125832558-e417825b-03f0-4508-86de-a5babcbc6cb1.png)
 <br><br/>
 
 **K Nearest Neighbor**
+
+[Implementation Code](/KNN)
 
 ![knn (1)](https://user-images.githubusercontent.com/66252302/125832544-da894270-683b-419b-bab2-a31f352375f8.png)
 
