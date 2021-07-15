@@ -9,7 +9,7 @@
 
 **Decision Tree with ID3 Algorithm**
 
-[Implementation Code](/Decision Tree)
+[Implementation Code](/Decision%20Tree)
 
 ![擷取1](https://user-images.githubusercontent.com/66252302/125833260-9b1f94d0-6b8f-4748-80e8-7ea7d7703cb1.JPG)
 <br><br/>
