@@ -1,7 +1,7 @@
 # 排序過程視覺化
 
-![knn(1)](https://user-images.githubusercontent.com/66252302/125831559-c22cb6be-014c-4eb7-93ed-a30d0ba95070.png)
-![dbscan (1)](https://user-images.githubusercontent.com/66252302/125831569-9a41729c-d710-407f-b5e4-5152a04f9141.png)
-![decision tree (1)](https://user-images.githubusercontent.com/66252302/125831578-04f8cfc3-a037-4680-b483-7e0c064dba6d.JPG)
-![k-means](https://user-images.githubusercontent.com/66252302/125831583-c92dbcb2-9eb0-49aa-ba15-1c98b4aba82e.JPG)
+![dbscan](https://user-images.githubusercontent.com/66252302/125832562-c50a8925-353a-4b65-9d6e-e1dedfe12c5c.JPG)
+![decision tree](https://user-images.githubusercontent.com/66252302/125832542-5a9b631c-34c8-46ac-b4fe-dabeffeccd95.JPG)
+![kmeans2](https://user-images.githubusercontent.com/66252302/125832558-e417825b-03f0-4508-86de-a5babcbc6cb1.png)
+![knn (1)](https://user-images.githubusercontent.com/66252302/125832544-da894270-683b-419b-bab2-a31f352375f8.png)
 
