@@ -2,12 +2,14 @@
 
 **Density‐based Clustering**
 
-[here](/DBSCAN)
+[Implementation Code](/DBSCAN)
 
 ![dbscan](https://user-images.githubusercontent.com/66252302/125832562-c50a8925-353a-4b65-9d6e-e1dedfe12c5c.JPG)
 <br><br/>
 
 **Decision Tree with ID3 Algorithm**
+
+[Implementation Code](/Decision Tree)
 
 ![擷取1](https://user-images.githubusercontent.com/66252302/125833260-9b1f94d0-6b8f-4748-80e8-7ea7d7703cb1.JPG)
 <br><br/>
